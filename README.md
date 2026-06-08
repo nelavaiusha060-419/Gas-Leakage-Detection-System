@@ -35,6 +35,8 @@ This project is a Gas Leakage Detection System built using Arduino Uno and MQ-2 
 - Mobile app integration
 - Wi-Fi monitoring
 - Automatic gas valve control
+## 📷 Project Image
 
+![Gas Leakage Detection System](gas_detector.jpeg)
 ## 👩‍💻 Author
 Nelavai Usha
